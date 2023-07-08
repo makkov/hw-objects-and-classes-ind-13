@@ -1,4 +1,4 @@
-package com.hw.maxim;
+package com.hw.maxim.objects.and.classes;
 
 public class Main {
 
@@ -11,12 +11,8 @@ public class Main {
 
         System.out.println(kapitanskayaDochka.getName());
         System.out.println(kapitanskayaDochka.getYear());
-        kapitanskayaDochka.setYear(1835);
-        System.out.println(kapitanskayaDochka.getYear());
 
         System.out.println(geroyNashegoVremeny.getName());
-        System.out.println(geroyNashegoVremeny.getYear());
-        geroyNashegoVremeny.setYear(1800);
         System.out.println(geroyNashegoVremeny.getYear());
     }
 }

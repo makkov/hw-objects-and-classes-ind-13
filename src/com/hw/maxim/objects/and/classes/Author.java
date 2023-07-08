@@ -1,4 +1,4 @@
-package com.hw.maxim;
+package com.hw.maxim.objects.and.classes;
 
 public class Author {
 
